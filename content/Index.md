@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-09-28T09:51:40.178Z
-modified: 2026-09-29T20:02:04.877Z
+modified: 2026-09-29T21:22:52.607Z
 ---
+
+[Основные книги по Bloomburrow](https://www.patreon.com/planeshifted/posts/planeshifted-to-111496496)
 
 Сюжет
 [[Вводная]]
