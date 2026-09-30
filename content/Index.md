@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-09-28T09:51:40.178Z
-modified: 2026-09-29T21:22:52.607Z
+modified: 2026-09-30T12:34:37.583Z
 ---
+
+![[attachments/Pasted image 20260930153437.png]]
 
 [Основные книги по Bloomburrow](https://www.patreon.com/planeshifted/posts/planeshifted-to-111496496)
 
